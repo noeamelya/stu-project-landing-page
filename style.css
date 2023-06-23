@@ -1,0 +1,71 @@
+
+body {
+    background-image: -moz-element();
+  }
+  header {
+    background-color: rgb(209, 182, 209);
+    border-color: rgb(233, 81, 81);
+  }
+
+  h1{
+    font-size: 50px;
+    text-align: center;
+    
+
+  }
+   
+  div {
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 20px;
+    line-height: 2px;
+    text-align: center;
+
+  
+  }
+  
+  
+  p {
+
+    font-style: italic;
+    
+  
+
+
+  }
+  a {
+    font-size: 16px;
+    color: #181510;
+  }
+  
+  section {
+    margin: 100px;
+    padding: 50px;
+    width: 80%;
+    background-color: #f6e9c9;
+  }
+  
+  .first-element {
+    background-color: rgb(230, 173, 208);
+  }
+  
+  .second-element {
+    background-color: rgb(206, 218, 32);
+  }
+  .third-element {
+    background-color: cornflowerblue;
+  }
+  
+  /* Sets display of all elements with class selector to inline */
+  .display-inline {
+    display: inline;
+  }
+  
+  footer {
+    text-align: center;
+    background-origin: border-box;
+    border-color: black;
+  }
+ 
